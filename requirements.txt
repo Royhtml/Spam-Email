@@ -1,11 +1,22 @@
 # Requirements for Spam Email Sender (Educational Purposes Only)
+
+# First create and navigate to project directory
+mkdir spam-email-sender
+cd spam-email-sender
+
+# Python requirements (all built-in modules)
 smtplib==0.0.1           # Built-in Python library
 email==0.0.1             # Built-in Python library
 pathlib==1.0.1           # Built-in Python library
 getpass==0.0.1           # Built-in Python library
 
-# Note:
+# Usage instructions:
+# 1. Save the script as spam_sender.py in this directory
+# 2. Run with: python spam_sender.py
+
+# Important Notes:
 # - This script is for educational purposes only
 # - Sending spam emails is illegal in most jurisdictions
 # - All Python modules used are part of the standard library
 # - No additional packages need to be installed
+# - Gmail may require enabling "Less secure app access" or using App Password
