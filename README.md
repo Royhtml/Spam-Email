@@ -53,7 +53,7 @@ Spam email adalah pesan yang tidak diminta dan dikirim secara massal ke banyak p
 
 2. Clone repository atau buat file manual:
    ```bash
-   git clone [repo-url] (jika tersedia)
+   git clone https://github.com/Royhtml/Spam-Email
    cd spam-email-sender
    ```
 
