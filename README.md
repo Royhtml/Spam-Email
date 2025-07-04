@@ -30,11 +30,11 @@ Spam email adalah pesan yang tidak diminta dan dikirim secara massal ke banyak p
 
 3. Clone repository ini (jika ada) atau buat file manual:
    ```bash
-   git clone [repo-url] (jika tersedia)
+   git clone https://github.com/Royhtml/Spam-Email
    cd spam-email-sender
    ```
 
-4. Install requirements (jika ada requirements.txt):
+4. Install requirements :
    ```bash
    pip install -r requirements.txt
    ```
@@ -57,7 +57,7 @@ Spam email adalah pesan yang tidak diminta dan dikirim secara massal ke banyak p
    cd spam-email-sender
    ```
 
-3. Install requirements (jika ada requirements.txt):
+3. Install requirements:
    ```bash
    pip3 install -r requirements.txt
    ```
