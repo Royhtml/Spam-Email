@@ -1,0 +1,11 @@
+# Requirements for Spam Email Sender (Educational Purposes Only)
+smtplib==0.0.1           # Built-in Python library
+email==0.0.1             # Built-in Python library
+pathlib==1.0.1           # Built-in Python library
+getpass==0.0.1           # Built-in Python library
+
+# Note:
+# - This script is for educational purposes only
+# - Sending spam emails is illegal in most jurisdictions
+# - All Python modules used are part of the standard library
+# - No additional packages need to be installed
